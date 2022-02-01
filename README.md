@@ -2,5 +2,5 @@
 CDC healthbot for peoples to help with Covid-19 symptoms and precautions to take.
 
 Telegram channel link for Covid-19 Healthbot :
-[Your Link Here](t.me/covid19_healthbot)
+[Your Link Here](https://t.me/covid19_healthbot)
 
